@@ -1,0 +1,7 @@
+﻿# Root Project Information
+sonar.projectKey = MainDemoProject
+sonar.projectName = MainDemoProject
+sonar.projectVersion = 1.0
+
+#some Properties that will be inherited by the modules
+sonar.sources = /home/1230154/RajaSoniT7/workspace/Demo2
